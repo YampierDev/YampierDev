@@ -4,9 +4,15 @@
 
 >**Yampier Ponce**
 
+>Contactame 
+[Linkedln](https://www.linkedin.com/in/yampi-ponce/)
+| 
+[Email](mailto:developer.yampier@gmail.com)
+
 #### :wave: Hola!! gracias por visitar mi perfil, en este apartado podras encontrar todos los proyectos que vengo realizando en mi trabajo como programador freelance. En estos ultimos años estoy trabajando con React, Vue los cuales son Frameworks y librerias de Javascript, soy un loco apacionado (literalmente :sweat_smile:) por las tecnologias que hacen hermosa la web. El aprendizaje constante y la practica, hace mejor a uno como programador :metal: 100% real no fake :laughing:.
 
 #### Tengo la posibilidad de compartir conocimiento con la munidad, es de esa manera tambien como uno aprende y llena esos huecos vacios que hay.
+
 ___
 ### Habilidades
 * [x] HTML
