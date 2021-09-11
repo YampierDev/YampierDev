@@ -1,4 +1,4 @@
-<img width="50%" height="auto" src="https://i.imgur.com/06JQUeG.png" height="175px" style="margin: 0 125px 0 125px;"/>
+<img width="50%" height="auto" src="https://i.imgur.com/06JQUeG.png" height="175px" style="margin: 0 125px 0 125px;" align="center"/>
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Yampier Ponce</h1>
 <h3 align="center"></h3>Soy un apacionado de la tecnologia, trabajo como Programador Frontend
