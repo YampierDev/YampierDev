@@ -1,4 +1,4 @@
-[Imgur](https://imgur.com/cLdDUtk)
+[![Imgur](https://imgur.com/cLdDUtk)]
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Yampier Ponce</h1>
 <h3 align="center"></h3>Programador Freelance 🇵🇪💻 experto en tecnologías web, con más de 3años de experiencia #Autoeducación📚#Frontend🎨 #Javascript👨‍💻
