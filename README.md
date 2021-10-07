@@ -1,4 +1,4 @@
-<img width="50%" height="auto" src="https://imgur.com/cLdDUtk.png" height="175px" style="margin: 0 125px 0 125px;"/>
+<img src="https://imgur.com/cLdDUtk.png"/>
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Yampier Ponce</h1>
 <h3 align="center"></h3>Programador Freelance 🇵🇪💻 experto en tecnologías web, con más de 3años de experiencia #Autoeducación📚#Frontend🎨 #Javascript👨‍💻
