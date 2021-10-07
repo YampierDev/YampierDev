@@ -1,7 +1,7 @@
 <img src="https://imgur.com/cLdDUtk.png"/>
 
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Yampier Ponce</h1>
-<h3 align="center"></h3>Programador Freelance 🇵🇪💻 experto en tecnologías web, con más de 3años de experiencia #Autoeducación📚#Frontend🎨 #Javascript👨‍💻
+<h3 align="center">Programador Frontend👨‍💻 con mas de 3 años de experiencia✅, actualmente me encutro trabajando como freelance, aparte de programar me gusta hacer deporte⛹️‍♀️ y desarrollar nuesvas habilidades📚</h3>
 
 ## 🙋‍♂️ Acerca de mi
 
