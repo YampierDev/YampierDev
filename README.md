@@ -37,14 +37,14 @@
 ## 📊 Mis estadisticas de GitHub
 
   <br/>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YampierPonce&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YampierPonceV&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Nota:</b> Los idiomas principales son solo una métrica de los idiomas que componen mi código público y no reflejan la experiencia ni el nivel de habilidad.
 
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YampierPonce&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YampierPonceV&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -61,6 +61,6 @@
 ## 🟣 Vistas y seguidores
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=YampierPonce&color=blue&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=YampierPonceV&color=blue&style=flat-square">
 </a>
-<a href="https://github.com/YampierPonce?tab=followers"><img src="https://img.shields.io/github/followers/YampierPonce?label=Followers&style=blue" alt="GitHub Badge"></a>
+<a href="https://github.com/YampierPonceV?tab=followers"><img src="https://img.shields.io/github/followers/YampierPonce?label=Followers&style=blue" alt="GitHub Badge"></a>
