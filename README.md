@@ -53,8 +53,8 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="40"/></a>
+<a href = "https://www.linkedin.com/in/yampierponcev/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40"/></a>
+<a href = "https://twitter.com/YampierPonceV"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="40"/></a>
 
 </p>
 
@@ -63,4 +63,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=YampierPonceV&color=blue&style=flat-square">
 </a>
-<a href="https://github.com/YampierPonceV?tab=followers"><img src="https://img.shields.io/github/followers/YampierPonce?label=Followers&style=blue" alt="GitHub Badge"></a>
+<a href="https://github.com/YampierPonceV?tab=followers"><img src="https://img.shields.io/github/followers/YampierPonceV?label=Followers&style=blue" alt="GitHub Badge"></a>
