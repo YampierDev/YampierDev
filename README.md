@@ -2,20 +2,6 @@
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Yampier Ponce</h1>
 <h3 align="center">Experto en el desarrollo web con Javascript👨‍💻, Me gusta compartir conocimientos con la comunidad📚 y brindar soluciones✍</h3>
 
-## 🙋‍♂️ Acerca de mi
-
-- 🔭 Actualmente me encuentro trabajando como **FREELANCE**
-
-- 🌱 Actualmente me encuentro aprendiendo **Estructura de datos**
-
-- 👨‍💻 Algunos de mis proyectos los encuentras en **[Mi portafolio](https://yampierponce.github.io/portafolio-yampi/)**
-
-- 📫 Como llegar a mi **developer.yampier@gmail.com**
-
-- ⚡ Me gusta hacer deporte **Especialemente jugar al Futbol**
-
-- 🤝 Me encanta trabajar en equipo
-
 ## 🚀 Lenguajes y herramientas:
 
 
