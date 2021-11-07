@@ -1,6 +1,6 @@
 <img src="https://imgur.com/5SaEg7K.png"/>
 <h1>Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Yampier Ponce</h1>
-<h3>Soy un apasionado por la tecnología y la programación 💻, me gusta colaborar en proyectos open source 💙.Especialista en el desarrollo Frontend desde el 2018.💻</h3>
+<p>Soy un apasionado por la tecnología y la programación 💻, me gusta colaborar en proyectos open source 💙.Especialista en el desarrollo Frontend desde el 2018.💻</p>
 
 ## 🚀 Lenguajes y herramientas:
 
