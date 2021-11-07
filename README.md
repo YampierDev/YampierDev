@@ -1,6 +1,6 @@
 <img src="https://imgur.com/5SaEg7K.png"/>
-<h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Yampier Ponce</h1>
-<h3 align="center">Experto en el desarrollo web con Javascript👨‍💻, Me gusta compartir conocimientos con la comunidad📚 y brindar soluciones✍</h3>
+<h1>Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Yampier Ponce</h1>
+<h3>Soy un apasionado por la tecnología y la programación 💻, especialista en el desarrollo Frontend desde el 2018. Me gusta colaborar en proyectos Freelance 👨‍💻</h3>
 
 ## 🚀 Lenguajes y herramientas:
 
