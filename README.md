@@ -1,5 +1,5 @@
 <img src="https://imgur.com/cLdDUtk.png"/>
-<img src="https://imgur.com/a/xpaDjAo.png"/>
+<img src="https://imgur.com/5SaEg7K.png"/>
 <h1 align="center">Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Yampier Ponce</h1>
 <h3 align="center">Experto en el desarrollo web con Javascript👨‍💻, Me gusta compartir conocimientos con la comunidad📚 y brindar soluciones✍</h3>
 
