@@ -1,6 +1,6 @@
 <img src="https://imgur.com/5SaEg7K.png"/>
 <h1>Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Yampier Ponce</h1>
-<p>Soy un apasionado por la tecnología y la programación 💻, me gusta colaborar en proyectos open source 💙.Especialista en el desarrollo Frontend desde el 2018.💻</p>
+<p>Soy un programador junior apasionado por el desarrollo frontend con habilidades en HTML, CSS, JavaScript y experiencia en frameworks y librerías como React y Vue. Me enfoco en crear experiencias de usuario únicas y atractivas en la web, y estoy siempre en busca de oportunidades para seguir aprendiendo y creciendo como programador. Soy una persona autodidacta y comprometida con mi trabajo, y estoy buscando un entorno desafiante donde pueda aplicar mis habilidades y conocimientos</p>
 
 ## 🚀 Lenguajes y herramientas:
 
