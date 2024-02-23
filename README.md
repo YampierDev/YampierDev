@@ -1,6 +1,24 @@
 <img src="https://media.licdn.com/dms/image/D4E16AQFMkX3lzFJl9Q/profile-displaybackgroundimage-shrink_350_1400/0/1701116110945?e=1714003200&v=beta&t=SGurUBPow5h35qBC_czx7Kt3V3rnvIZH0SCK1WC_lmA"/>
 <h1>Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Yampier Ponce</h1>
-<p>Soy un programador junior apasionado por el desarrollo frontend con habilidades en HTML, CSS, JavaScript y experiencia en frameworks y librerías como React y Vue. Me enfoco en crear experiencias de usuario únicas y atractivas en la web, y estoy siempre en busca de oportunidades para seguir aprendiendo y creciendo como programador. Soy una persona autodidacta y comprometida con mi trabajo, y estoy buscando un entorno desafiante donde pueda aplicar mis habilidades y conocimientos</p>
+<p>🖥️ Estudios Técnicos en Desarrollo de Sistemas de la Información | Plataforma Platzi: Desarrollo Web Backend
+
+🔧 Con 2 años y medio de experiencia en Soporte IT, he brindado soluciones informáticas integrales, enfocándome en el mantenimiento de equipos, instalación y configuración de redes locales (LAN), y administración de bases de datos y servidores en módulos de Active Directory.
+
+💻 Actualmente, en proceso de transición hacia el desarrollo backend, enfocándome en mi formación en la Escuela de Desarrollo Web de Platzi, adquiriendo habilidades sólidas en la creación de aplicaciones robustas y eficientes.
+
+🚀 Objetivo: Contribuir con mi pasión por la programación backend en entornos desafiantes, combinando mi experiencia en soporte IT para aportar soluciones técnicas innovadoras.
+
+🔍 Habilidades clave:
+
+Programación en Backend (en curso)
+Mantenimiento y configuración de equipos y servidores
+Administración de redes locales (LAN)
+Manejo avanzado de bases de datos
+Experiencia en módulos de Active Directory
+Resolución efectiva de problemas informáticos
+¡Apasionado por el aprendizaje continuo y la mejora constante para alcanzar nuevos logros en el desarrollo de software!
+
+¡Conectemos para explorar oportunidades y compartir conocimientos en el mundo del desarrollo backend!</p>
 
 ## 🚀 Lenguajes y herramientas:
 
