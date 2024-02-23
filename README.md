@@ -1,4 +1,4 @@
-<img src="[https://imgur.com/5SaEg7K.png](https://media.licdn.com/dms/image/D4E16AQFMkX3lzFJl9Q/profile-displaybackgroundimage-shrink_350_1400/0/1701116110945?e=1714003200&v=beta&t=SGurUBPow5h35qBC_czx7Kt3V3rnvIZH0SCK1WC_lmA)"/>
+<img src="https://media.licdn.com/dms/image/D4E16AQFMkX3lzFJl9Q/profile-displaybackgroundimage-shrink_350_1400/0/1701116110945?e=1714003200&v=beta&t=SGurUBPow5h35qBC_czx7Kt3V3rnvIZH0SCK1WC_lmA"/>
 <h1>Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Yampier Ponce</h1>
 <p>Soy un programador junior apasionado por el desarrollo frontend con habilidades en HTML, CSS, JavaScript y experiencia en frameworks y librerías como React y Vue. Me enfoco en crear experiencias de usuario únicas y atractivas en la web, y estoy siempre en busca de oportunidades para seguir aprendiendo y creciendo como programador. Soy una persona autodidacta y comprometida con mi trabajo, y estoy buscando un entorno desafiante donde pueda aplicar mis habilidades y conocimientos</p>
 
