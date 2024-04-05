@@ -44,11 +44,13 @@ Resolución efectiva de problemas informáticos
 
 ## Contactame por:
 
+## Contáctame por:
+
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/yampierponcev/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40"/></a>
-<a href = "https://twitter.com/YampierPonceV"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="40"/></a>
-
+    <a href="https://www.linkedin.com/in/yampierponcev/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40"/></a>
+    <a href="https://twitter.com/YampierPonceV"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="40"/></a>
+    <a href="https://www.instagram.com/yampierponcev/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40"/></a>
+    <a href="https://thread.com/@YampierPonceV"><img src="https://img.icons8.com/ios/50/000000/thread.png" width="40"/></a>
 </p>
 
 ## 🟣 Vistas y seguidores
