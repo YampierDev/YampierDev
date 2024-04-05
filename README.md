@@ -42,21 +42,6 @@ Resolución efectiva de problemas informáticos
 
 <br/>
 
-## 📊 Mis estadisticas de GitHub
-
-  <br/>
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YampierPonceV&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Nota:</b> Los idiomas principales son solo una métrica de los idiomas que componen mi código público y no reflejan la experiencia ni el nivel de habilidad.
-
-<br/>
-<br/>
-
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YampierPonceV&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 ## Contactame por:
 
 <p align="left">
