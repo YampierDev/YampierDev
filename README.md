@@ -24,7 +24,16 @@ Resolución efectiva de problemas informáticos
 
 
 
-[![Python](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![HTML](https://img.shields.io/badge/-HTML-F07634?style=for-the-badge&labelColor=black&logo=html5&logoColor=F07634)](#) [![CSS](https://img.shields.io/badge/-CSS-007BC1?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=007BC1)](#) [![SASS](https://img.shields.io/badge/-SASS-CF649A?style=for-the-badge&labelColor=black&logo=sass&logoColor=CF649A)](#) [![Webpack](https://img.shields.io/badge/-webpack-75AFCC?style=for-the-badge&labelColor=black&logo=webpack&logoColor=75AFCC)](#) [![GIT](https://img.shields.io/badge/-GIT-F34C28?style=for-the-badge&labelColor=black&logo=GIT&logoColor=F34C28)](#) [![MARKDOWN](https://img.shields.io/badge/-MARKDOWN-8EC8DC?style=for-the-badge&labelColor=black&logo=MARKDOWN&logoColor=ffffff)](#)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)
+[![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#)
+[![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=FFFFFF)](#)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336791)](#)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
+[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=FF9900)](#)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624)](#)
+[![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=4EAA25)](#)
+[![Backend](https://img.shields.io/badge/-Backend-333333?style=for-the-badge&labelColor=black)](#)
+
 <br/>
 
 ## 📊 Mis estadisticas de GitHub
