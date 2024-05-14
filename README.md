@@ -1,4 +1,3 @@
-<img src="https://media.licdn.com/dms/image/D4E16AQFMkX3lzFJl9Q/profile-displaybackgroundimage-shrink_350_1400/0/1701116110945?e=1714003200&v=beta&t=SGurUBPow5h35qBC_czx7Kt3V3rnvIZH0SCK1WC_lmA"/>
 <h1>Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Yampier Ponce</h1>
 <p>🖥️ Estudios Técnicos en Desarrollo de Sistemas de la Información | Plataforma Platzi: Desarrollo Web Backend
 
