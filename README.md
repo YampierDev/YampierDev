@@ -1,5 +1,5 @@
 <h1>Soy Yampier Ponce</h1>
-<p>De profesión Técnico de sistemas con experiencia en TI, seguridad y redes. Resolución de problemas y comunicación efectiva. Comprometido con eficiencia y seguridad en sistemas informáticos, buscando nuevos desafíos para el éxito organizacional.</p>
+<p>De profesión Técnico de Sistemas con más de 3 años de experiencia en TI, enfocado en seguridad informática, redes y gestión de servidores. Durante el último año, he trabajado en proyectos de backend, aplicando mis conocimientos en desarrollo y administración de sistemas. Experto en la resolución de problemas, con habilidades en comunicación efectiva y colaboración en equipo. Comprometido con la eficiencia y seguridad en los sistemas informáticos, busco continuamente nuevos desafíos que contribuyan al éxito organizacional mediante la implementación de soluciones tecnológicas escalables y seguras.</p>
 
 ## 🚀 Lenguajes y herramientas:
 
@@ -9,7 +9,7 @@
 [![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#)
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=FFFFFF)](#)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336791)](#)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=ffffff)](#)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
 [![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
 [![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&labelColor=black&logo=spring-boot&logoColor=6DB33F)](#)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#)
