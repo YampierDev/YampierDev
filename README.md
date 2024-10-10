@@ -1,23 +1,5 @@
 <h1>Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Yampier Ponce</h1>
-<p>🖥️ Estudios Técnicos en Desarrollo de Sistemas de la Información | Plataforma Platzi: Desarrollo Web Backend
-
-🔧 Con 2 años y medio de experiencia en Soporte IT, he brindado soluciones informáticas integrales, enfocándome en el mantenimiento de equipos, instalación y configuración de redes locales (LAN), y administración de bases de datos y servidores en módulos de Active Directory.
-
-💻 Actualmente, en proceso de transición hacia el desarrollo backend, enfocándome en mi formación en la Escuela de Desarrollo Web de Platzi, adquiriendo habilidades sólidas en la creación de aplicaciones robustas y eficientes.
-
-🚀 Objetivo: Contribuir con mi pasión por la programación backend en entornos desafiantes, combinando mi experiencia en soporte IT para aportar soluciones técnicas innovadoras.
-
-🔍 Habilidades clave:
-
-Programación en Backend (en curso)
-Mantenimiento y configuración de equipos y servidores
-Administración de redes locales (LAN)
-Manejo avanzado de bases de datos
-Experiencia en módulos de Active Directory
-Resolución efectiva de problemas informáticos
-¡Apasionado por el aprendizaje continuo y la mejora constante para alcanzar nuevos logros en el desarrollo de software!
-
-¡Conectemos para explorar oportunidades y compartir conocimientos en el mundo del desarrollo backend!</p>
+<p>De profesión Técnico de sistemas con experiencia en TI, seguridad y redes. Resolución de problemas y comunicación efectiva. Comprometido con eficiencia y seguridad en sistemas informáticos, buscando nuevos desafíos para el éxito organizacional.</p>
 
 ## 🚀 Lenguajes y herramientas:
 
