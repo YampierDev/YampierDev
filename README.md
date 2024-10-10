@@ -24,7 +24,6 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/yampierponcev/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40"/></a>
     <a href="https://twitter.com/YampierPonceV"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" width="40"/></a>
-    <a href="https://www.instagram.com/yampierponcev/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40"/></a>
 </p>
 
 
