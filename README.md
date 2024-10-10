@@ -1,4 +1,4 @@
-<h1>Hola <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, soy Yampier Ponce</h1>
+<h1>Soy Yampier Ponce</h1>
 <p>De profesión Técnico de sistemas con experiencia en TI, seguridad y redes. Resolución de problemas y comunicación efectiva. Comprometido con eficiencia y seguridad en sistemas informáticos, buscando nuevos desafíos para el éxito organizacional.</p>
 
 ## 🚀 Lenguajes y herramientas:
