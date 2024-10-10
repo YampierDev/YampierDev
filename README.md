@@ -13,7 +13,6 @@
 [![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
 [![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&labelColor=black&logo=spring-boot&logoColor=6DB33F)](#)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#)
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=FF9900)](#)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624)](#)
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=4EAA25)](#)
 
