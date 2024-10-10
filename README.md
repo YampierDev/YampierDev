@@ -10,7 +10,6 @@
 [![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=FFFFFF)](#)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336791)](#)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#)
-[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&labelColor=black&logo=java&logoColor=007396)](#)
 [![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&labelColor=black&logo=spring-boot&logoColor=6DB33F)](#)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624)](#)
