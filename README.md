@@ -15,7 +15,7 @@
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624)](#)
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=4EAA25)](#)
-
+[![GIT](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=4EAA25)](#)
 
 
 <br/>
